@@ -47,3 +47,12 @@ ESPN.
 
 Logan is going to learn enough rails to put up a single page for displaying DOM event statistics
 sent to a backend endpoint via JavaScript.
+
+### Timothy Bowling : Red Dead Redemption Weapon Selection UI
+
+![red dead redemption weapon selection](/assets/images/red-dead-mockup.jpg)
+
+
+### Matthew Lipsey : Church Sermon Archive
+
+Matt is going to make a Django app for archiving sermon recordings.
